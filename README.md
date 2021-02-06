@@ -6,9 +6,11 @@
 It can be useful to reduce the volume of breathing noises e.g. in podcast recordings without completely erasing these breaks.
 
 Manual volume adjustment:
+
 ![manual volume adjustment](before.gif)
 
 Using the plugin with keyboard shortcut:
+
 ![volume adjustment with plugin](after.gif)
 
 ## Installation
