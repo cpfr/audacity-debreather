@@ -19,11 +19,11 @@ Using the plugin with keyboard shortcut:
 - Open Audacity
 - Select [Tools]->[Nyquist Plug-in Installer...]
 - In the dialog, select the *Debreather.ny* file and press "OK"
-- Select [Tools]->[Add/Remove Plug-ins]
-- Search for the plugin with the name "Debreather" and press "Enable"
+- Select [Tools]->[Add/Remove Plug-ins] (or [Tools]->[Plugin Manager] in newer Audacity versions)
+- Search for the plugin with the name "Debreather" and press "Enable" (You might have to press the "Rescan" first in order to detect the plugin)
 - Now "Debreather" should appear in the "Tools" menu
 - In order to assign a keyboard shortcut to the plugin, click [Edit]->[Preferences]
-- Select the category "Keyboard"
+- Select the category "Keyboard" (or "Shortcuts" in newer Audacity versions)
 - In the search field enter "Debreather", the list below should be filtered now
 - Assign a keyboard shortcut to the debreather (e.g. ALT+D)
 
